@@ -3,7 +3,9 @@
 This repository contains a search engine pipeline using PySpark, MongoDB, and Airflow. The pipeline fetches product data from the ASOS API, stores the data in Google Cloud Storage (GCS), loads the data into MongoDB, and calculates BM25 scores to rank the top 10 items.
 
 ## Architecture
-<img src="architecture.png" alt="Architecture Diagram">
+<p align="center">
+  <img src="architecture.png" alt="Description of the image" width="600" height="400">
+</p>
 
 
 ## Table of Contents
